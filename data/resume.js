@@ -298,8 +298,8 @@ var skills = [
 
 module.exports = {
     workExperience: [
-        spotheroInfo: spotheroInfo,
-        slalomInfo: slalomInfo
+        spotheroInfo,
+        slalomInfo
     ],
     education: education,
     interests: interests,
