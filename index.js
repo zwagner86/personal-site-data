@@ -8,6 +8,6 @@ module.exports = {
     images: images,
     companies: companies,
     frameworks: frameworks,
-    languages: languages
+    languages: languages,
     resume: resume
 };
