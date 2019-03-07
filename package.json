@@ -1,0 +1,19 @@
+{
+  "name": "personal-site-data",
+  "version": "1.0.0",
+  "description": "Info for my personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwagner86/personal-site-data.git"
+  },
+  "author": "Zachary Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwagner86/personal-site-data/issues"
+  },
+  "homepage": "https://github.com/zwagner86/personal-site-data#readme"
+}
