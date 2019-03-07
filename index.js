@@ -1,4 +1,4 @@
-var images = require("./data/images");
+var images = require("./data/images/images");
 var companies = require("./data/companies");
 var frameworks = require("./data/frameworks");
 var languages = require("./data/languages");

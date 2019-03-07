@@ -1,4 +1,4 @@
 module.exports = {
-    logos: require("./logos")
+    logos: require("./logos"),
     profile: require("./prof-pic.png")
 };

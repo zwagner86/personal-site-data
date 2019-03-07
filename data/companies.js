@@ -1,7 +1,7 @@
 var companies = [
     {
         name: "SpotHero",
-        location: "Chicago, IL"
+        location: "Chicago, IL",
         from: "December 2016",
         to: "Present",
         title: "Front End Engineer",
@@ -9,7 +9,7 @@ var companies = [
     },
     {
         name: "Slalom Consulting",
-        location: "Chicago, IL"
+        location: "Chicago, IL",
         from: "December 2012",
         to: "December 2016",
         title: "Senior Software Engineer",
