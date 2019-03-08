@@ -5,7 +5,8 @@ var languages = require("./data/languages");
 var resume = require("./data/resume");
 
 module.exports = {
-    images: images,
+    logos: images.logos,
+    profileImage: images.profile,
     companies: companies,
     frameworks: frameworks,
     languages: languages,
