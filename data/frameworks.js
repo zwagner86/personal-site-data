@@ -1,92 +1,92 @@
 var frameworks = [
     {
         name: "React",
-        logoName: "reactLogo",
+        logoName: "react",
         star: true
     },
     {
         name: "Vue",
-        logoName: "vueLogo",
+        logoName: "vue",
         star: false
     },
     {
         name: "Angular",
-        logoName: "angularLogo",
+        logoName: "angular",
         star: false
     },
     {
         name: "jQuery",
-        logoName: "jqueryLogo",
+        logoName: "jquery",
         star: true
     },
     {
         name: "Redux",
-        logoName: "reduxLogo",
+        logoName: "redux",
         star: true
     },
     {
         name: "Bootstrap",
-        logoName: "bootstrapLogo",
+        logoName: "bootstrap",
         star: true
     },
     {
         name: "Less",
-        logoName: "lessLogo",
+        logoName: "less",
         star: true
     },
     {
         name: "Sass",
-        logoName: "sassLogo",
+        logoName: "sass",
         star: true
     },
     {
         name: "Grunt",
-        logoName: "gruntLogo",
+        logoName: "grunt",
         star: false
     },
     {
         name: "Gulp",
-        logoName: "gulpLogo",
+        logoName: "gulp",
         star: true
     },
     {
         name: "Webpack",
-        logoName: "webpackLogo",
+        logoName: "webpack",
         star: true
     },
     {
         name: "Node",
-        logoName: "nodeLogo",
+        logoName: "node",
         star: true
     },
     {
         name: "Express",
-        logoName: "expressLogo",
+        logoName: "express",
         star: true
     },
     {
         name: "TypeScript",
-        logoName: "typescriptLogo",
+        logoName: "typescript",
         star: false
     },
     {
         name: "Pug",
-        logoName: "pugLogo",
+        logoName: "pug",
         star: false
     },
     {
         name: "Jasmine",
-        logoName: "jasmineLogo",
+        logoName: "jasmine",
         star: true
     },
     {
         name: "Karma",
-        logoName: "karmaLogo",
+        logoName: "karma",
         star: true
     },
     {
         name: "Spring",
-        logoName: "springLogo",
+        logoName: "spring",
         star: false
     }
 ];

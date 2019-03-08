@@ -1,32 +1,32 @@
 var languages = [
     {
         name: "JavaScript",
-        logoName: "javascriptLogo",
+        logoName: "javascript",
         star: true
     },
     {
         name: "HTML",
-        logoName: "html5Logo",
+        logoName: "html5",
         star: true
     },
     {
         name: "CSS",
-        logoName: "cssLogo",
+        logoName: "css",
         star: true
     },
     {
         name: "Python",
-        logoName: "pythonLogo",
+        logoName: "python",
         star: false
     },
     {
         name: "Java",
-        logoName: "javaLogo",
+        logoName: "java",
         star: false
     },
     {
         name: "C/C++",
-        logoName: "cplusplusLogo",
+        logoName: "cplusplus",
         star: false
     }
 ];
