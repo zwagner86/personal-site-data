@@ -248,51 +248,118 @@ var education = {
 };
 
 var interests = [
-    'Web Development',
-    'React Native',
-    'Hybrid Mobile Applications',
-    'Athletics',
-    'Fitness',
-    'Health',
-    'Reading'
+    {
+        name: 'Coding',
+        faIconName: 'code'
+    },
+    {
+        name: 'React Native',
+        faIconName: 'mobile-alt'
+    },
+    {
+        name: 'Athletics',
+        faIconName: 'basketball-ball'
+    },
+    {
+        name: 'Fitness',
+        faIconName: 'dumbbell'
+    },
+    {
+        name: 'Reading',
+        faIconName: 'book'
+    },
+    {
+        name: 'Films',
+        faIconName: 'film'
+    },
+    {
+        name: 'Music',
+        faIconName: 'headphones'
+    },
+    {
+        name: 'Cooking',
+        faIconName: 'hamburger'
+    },
+    {
+        name: 'Learning',
+        faIconName: 'graduation-cap'
+    },
+    {
+        name: 'DIY',
+        faIconName: 'hammer'
+    },
 ];
 
 var skills = [
     {
-        name: 'Development Skills/Techniques',
-        rating: 99
+        name: 'Front-End',
+        rating: 4.5
     },
     {
-        name: 'Pride in Quality and Productivity',
-        rating: 98
+        name: 'Back-End',
+        rating: 3.5
     },
     {
-        name: 'Design Style',
-        rating: 96
+        name: 'DevOps',
+        rating: 2.5
     },
     {
-        name: 'Methodical Problem Solving',
-        rating: 100
+        name: 'Code Quality',
+        rating: 5
+    },
+    {
+        name: 'Problem Solving',
+        rating: 4.5
     },
     {
         name: 'Creativity',
-        rating: 100
+        rating: 5
     },
     {
-        name: 'Goal Oriented',
-        rating: 97
+        name: 'Strategic',
+        rating: 4.5
     },
     {
-        name: 'Leverages/Reuses Code',
-        rating: 96
+        name: 'Forward-Thinking',
+        rating: 4.5
+    },
+    {
+        name: 'Analytical',
+        rating: 5
     },
     {
         name: 'Communication',
-        rating: 97
+        rating: 4
     },
     {
-        name: 'Sense of Fun',
-        rating: 100
+        name: 'Collaboration',
+        rating: 4.5
+    },
+    {
+        name: 'Fast Learner',
+        rating: 5
+    },
+];
+
+var personalProjects = [
+    {
+        name: 'Create React Parcel App',
+        url: 'https://www.npmjs.com/package/create-react-parcel-app',
+        description: 'Created a NodeJS CLI application for bootstrapping simple React SPAs that use Parcel as the web application bundler. The CLI application accepts user input to configure the generated application with optional features such as state management via Redux, navigation via React Router, and other common front-end libraries such as Moment and Lodash. It supports Sass and PostCSS for styling and utilizes Jest and React Testing Library for testing. Still under active development.',
+        tech: [
+            'React',
+            'Redux',
+            'React Router',
+            'JavaScript',
+            'NodeJS',
+            'Parcel',
+            'Sass',
+            'PostCSS',
+            'Jest',
+            'React Testing Library',
+            'Lodash',
+            'MomentJS'
+        ],
     }
 ];
 
@@ -303,5 +370,6 @@ module.exports = {
     ],
     education: education,
     interests: interests,
-    skills: skills
+    skills: skills,
+    personalProjects: personalProjects
 };
