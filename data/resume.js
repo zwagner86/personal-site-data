@@ -60,7 +60,7 @@ var slalomInfo = {
         },
         {
             role: 'Front-End JavaScript Developer',
-            client: 'Communications Company',
+            client: 'Comms Company',
             duration: '1 year, 8 months',
             summary: 'Developed a modern, responsive, web access portal for small business customers to access/configure products, view and pay bills, create and edit contacts, and access voicemail and call logs, among other functionality, via RESTful API endpoints.',
             accomplishments: [
