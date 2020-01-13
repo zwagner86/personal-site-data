@@ -1,9 +1,17 @@
 var companies = [
     {
+        name: "Rippleshot",
+        location: "Chicago, IL",
+        fromDate: "September 2019",
+        toDate: "Present",
+        title: "Front End Engineer",
+        url: "http://rippleshot.com/"
+    },,
+    {
         name: "SpotHero",
         location: "Chicago, IL",
         fromDate: "December 2016",
-        toDate: "Present",
+        toDate: "August 2019",
         title: "Front End Engineer",
         url: "https://www.spothero.com"
     },
