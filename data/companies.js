@@ -6,7 +6,7 @@ var companies = [
         toDate: "Present",
         title: "Front End Engineer",
         url: "http://rippleshot.com/"
-    },,
+    },
     {
         name: "SpotHero",
         location: "Chicago, IL",
