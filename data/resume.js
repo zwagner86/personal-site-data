@@ -56,7 +56,7 @@ var slalomInfo = {
                 'Spring Boot',
                 'Grunt'
             ],
-            featureProject: true
+            featureProject: false
         },
         {
             role: 'Front-End JavaScript Developer',
@@ -183,7 +183,7 @@ var spotheroInfo = {
     positions: [
         {
             role: 'Engineer II',
-            dates: '10/2018 - Present'
+            dates: '10/2018 - 08/2019'
         },
         {
             role: 'Engineer I',
@@ -233,6 +233,46 @@ var spotheroInfo = {
                 'Sass',
                 'Webpack',
                 'Gulp'
+            ],
+            featureProject: false
+        }
+    ]
+};
+
+var rippleshotInfo = {
+    name: 'Rippleshot',
+    location: 'Chicago, IL',
+    overview: 'Migrating legacy Rails and Angular application to a hosted React SPA supported by Rails RESTful API endpoints.',
+    positions: [
+        {
+            role: 'Front-End Engineer',
+            dates: '09/2019 - Present'
+        }
+    ],
+    projects: [
+        {
+            role: 'Front-End JavaScript Developer',
+            duration: 'Ongoing',
+            summary: 'Created and started implementing a plan to modernize the main client-facing web application.',
+            accomplishments: [
+                'Maintained and updated legacy application while scaffolding out the new, improved front-end infrastructure',
+                'Implemented E2E testing using TestCafe',
+                'Added error monitoring to existing front-end application',
+                'Added analytics via user tracking and heatmapping for business to make decisions based on usage data.',
+                'Used React best practices on the front-end to deliver a solid user experience',
+                'Created and/or provided input on UI/UX design',
+            ],
+            tech: [
+                'React',
+                'Redux',
+                'React Router',
+                'JavaScript',
+                'HTML5',
+                'CSS3',
+                'Sass',
+                'Parcel',
+                'Angular',
+                'Ruby on Rails'
             ],
             featureProject: true
         }
@@ -365,6 +405,7 @@ var personalProjects = [
 
 module.exports = {
     workExperience: [
+        rippleshotInfo,
         spotheroInfo,
         slalomInfo
     ],
