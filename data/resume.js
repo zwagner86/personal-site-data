@@ -253,7 +253,7 @@ var rippleshotInfo = {
         {
             role: 'Front-End JavaScript Developer',
             duration: 'Ongoing',
-            summary: 'Created and started implementing a plan to modernize the main client-facing web application. Maintained and updated legacy application while scaffolding out the new, improved front-end infrastructure. Implemented useful features such as E2E testing using TestCafe, error monitoring to existing front-end application, and analytics via user tracking and heatmapping to help business to make decisions based on usage data.',
+            summary: 'Created and started implementing a plan to modernize the main web application. Maintained legacy application while scaffolding out new front-end infrastructure. Implemented useful features such as E2E testing, error monitoring, and analytics via user tracking and heatmapping.',
             accomplishments: [
                 'Maintained and updated legacy application while scaffolding out the new, improved front-end infrastructure',
                 'Implemented E2E testing using TestCafe',
