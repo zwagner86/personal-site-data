@@ -11,7 +11,7 @@ var slalomInfo = {
             dates: '12/2012 - 09/2016'
         }
     ],
-    overview: 'Constantly utilized current knowledge and understanding in software engineering practices, programming languages, and quality of product to deliver custom-tailored solutions to clients in a wide range of business and technological fields. This also required learning new technology stacks, standards, and processes in order to best match the deliverable product to the client\'s needs.',
+    overview: 'Constantly utilized knowledge and understanding in software engineering practices, programming languages, and quality of product to deliver custom-tailored solutions to clients in a wide range of business and technological fields. Learned new technology stacks, standards, and processes in order to best match the deliverable product to the client\'s needs.',
     projects: [
         {
             role: 'Front-End JavaScript Developer',
