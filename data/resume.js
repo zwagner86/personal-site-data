@@ -179,7 +179,7 @@ var slalomInfo = {
 var spotheroInfo = {
     name: 'SpotHero',
     location: 'Chicago, IL',
-    overview: 'Utilizing React, Redux, and React Router to create customer-facing and internal SPAs. Usage of Python, Django, and the Django REST Framework to create and update RESTful API endpoints for consumption by web and mobile applications.',
+    overview: 'Utilized React, Redux, and React Router to create customer-facing and internal SPAs. Usage of Python, Django, and the Django REST Framework to create and update RESTful API endpoints for consumption by web and mobile applications.',
     positions: [
         {
             role: 'Engineer II',
@@ -253,12 +253,12 @@ var rippleshotInfo = {
         {
             role: 'Front-End JavaScript Developer',
             duration: 'Ongoing',
-            summary: 'Created and started implementing a plan to modernize the main client-facing web application.',
+            summary: 'Created and started implementing a plan to modernize the main client-facing web application. Maintained and updated legacy application while scaffolding out the new, improved front-end infrastructure. Implemented useful features such as E2E testing using TestCafe, error monitoring to existing front-end application, and analytics via user tracking and heatmapping to help business to make decisions based on usage data.',
             accomplishments: [
                 'Maintained and updated legacy application while scaffolding out the new, improved front-end infrastructure',
                 'Implemented E2E testing using TestCafe',
                 'Added error monitoring to existing front-end application',
-                'Added analytics via user tracking and heatmapping for business to make decisions based on usage data.',
+                'Added analytics via user tracking and heatmapping for business to make decisions based on usage data',
                 'Used React best practices on the front-end to deliver a solid user experience',
                 'Created and/or provided input on UI/UX design',
             ],
